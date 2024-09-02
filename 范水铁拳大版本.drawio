@@ -1,0 +1,224 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.8">
+  <diagram name="第 1 页" id="Lnr-xvKV1lPX-lBIZAyc">
+    <mxGraphModel dx="4901" dy="2237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;textDirection=rtl;horizontal=0;verticalAlign=bottom;fontColor=#f25050;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="230" width="2050" height="1870" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-2" value="项目名称： 范水铁拳" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="850" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;作战流程&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="230" width="2050" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-5" target="WbxL7B_Gioo-JEQ7ymXz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-5" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; text-align: left; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;情指中心，接收到xx街道红十字路口，发生了一起撞人并逃逸案件之后，对情报分析研判，规划情报需求并对此案件建立信息档案。下发指令到合成作战中心。&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-7" target="WbxL7B_Gioo-JEQ7ymXz-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-7" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;合成作战中心，接收到&quot;情指中心&quot;命令，针对情报信息，统一下发指令到各个部门，进行协同指挥并对案件资源进行共享&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="260" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;dashed=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-9" target="WbxL7B_Gioo-JEQ7ymXz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="-88.75" y="860" width="898.75" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-10" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; text-align: left; background-color: rgba(255, 255, 255, 0.01); font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;交警部门&lt;/b&gt;：收到&quot;合成作战中心&quot;下达的指令后，交警部门到现场 收集来自道路监控设备、卡口系统、电子警察等的各类交通数据，如车辆流量、车速、违法信息等，并建立档案库。&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; text-align: left; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; text-align: left; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;视频部门&lt;/b&gt;：接收到&quot;合成作战中心&quot;命令，进行视频巡查与分析，通过实时查看监控视频，及时发现异常情况，并对重点区域、重点时段的视频进行深入分析，挖掘潜在的治安隐患和犯罪线索，并收集整理，为侦破提供关键证据。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; text-align: left; font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; text-align: left; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; text-align: left; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;治安部门&lt;/b&gt;：接收到&quot;合成作战中心&quot;命令，到事故现场，维护公共场所治安秩序。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; text-align: left; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; text-align: left; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;刑侦部门&lt;/b&gt;：接收到&quot;合成作战中心&quot;命令，&amp;nbsp;对犯罪现场进行细致的勘查与分析，对在逃的犯罪嫌疑人进行追捕。&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="965.78" width="687.5" height="258.44" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-11" value="各部门协同作战" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=#333333;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;endArrow=open;endFill=0;curved=0;flowAnimation=0;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-14" target="WbxL7B_Gioo-JEQ7ymXz-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;dashed=1;flowAnimation=1;strokeColor=#0050ef;strokeWidth=2;" edge="1" parent="1" target="WbxL7B_Gioo-JEQ7ymXz-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="382.5000000000002" as="sourcePoint" />
+            <mxPoint x="549" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-14" value="情指中心" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#A50040;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;fillColor=#d80073;arcSize=50;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="360" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;dashed=1;strokeWidth=2;strokeColor=#60a917;flowAnimation=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-24" target="WbxL7B_Gioo-JEQ7ymXz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-24" target="WbxL7B_Gioo-JEQ7ymXz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-24" target="WbxL7B_Gioo-JEQ7ymXz-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;dashed=1;strokeWidth=2;strokeColor=#1ba1e2;flowAnimation=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-20" target="WbxL7B_Gioo-JEQ7ymXz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;entryX=0.001;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=#c73500;dashed=1;strokeWidth=2;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-20" target="WbxL7B_Gioo-JEQ7ymXz-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2315" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-20" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#C73500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;fillColor=none;dashed=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="930" y="770" width="910" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-24" target="WbxL7B_Gioo-JEQ7ymXz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-24" target="WbxL7B_Gioo-JEQ7ymXz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-24" target="WbxL7B_Gioo-JEQ7ymXz-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-24" value="合成作战中心" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="580" width="540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-25" value="下发指令" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-27" target="WbxL7B_Gioo-JEQ7ymXz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-27" value="网安部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#006EAF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#1ba1e2;" vertex="1" parent="1">
+          <mxGeometry x="1071" y="917.5" width="40" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-29" target="WbxL7B_Gioo-JEQ7ymXz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-29" value="交警部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#006EAF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#1ba1e2;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="917.5" width="40" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-31" target="WbxL7B_Gioo-JEQ7ymXz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-31" value="视频部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#006EAF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#1ba1e2;" vertex="1" parent="1">
+          <mxGeometry x="1361" y="925" width="40" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-33" target="WbxL7B_Gioo-JEQ7ymXz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-33" value="刑侦部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#006EAF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#1ba1e2;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="919" width="39" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-35" target="WbxL7B_Gioo-JEQ7ymXz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-35" value="治安部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#006EAF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#1ba1e2;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="919" width="36" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-36" value="下发指令" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-11" target="WbxL7B_Gioo-JEQ7ymXz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;dashed=1;flowAnimation=1;dashPattern=8 8;strokeColor=#60a917;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-40" target="WbxL7B_Gioo-JEQ7ymXz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-40" target="WbxL7B_Gioo-JEQ7ymXz-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-40" value="合成作战中心" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="1530" width="650" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-42" target="WbxL7B_Gioo-JEQ7ymXz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-42" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;合成作战中心，通过不同警种和部门之间相互支持、相互配合，来自不同部门的报告，对信息进行整合，利用大数据分析和智能研判技术，对整合的信息进行深度挖掘和分析，发现犯罪规律、犯罪团伙的组织结构、作案特点等，为侦查和打击提供精确的方向和策略&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#1A1A1A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1500" width="580" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;curved=1;dashed=1;dashPattern=8 8;flowAnimation=1;strokeColor=#d80073;" edge="1" parent="1" source="WbxL7B_Gioo-JEQ7ymXz-44" target="WbxL7B_Gioo-JEQ7ymXz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-44" value="情指中心出具报告" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#A50040;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;fillColor=#d80073;arcSize=50;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="1770" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-45" value="信息整合，提交结论" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=#f25050;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1470" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-46" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;情指中心：根据这次的案件处理情况，并形成结案报告，为领导提供指挥决策&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontColor=#000000;rounded=1;shadow=0;glass=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="1770" width="565" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-47" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#c73500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;fillColor=#d0cee2;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="230" width="1010" height="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-48" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2220" y="250" width="930" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-49" value="情指中心" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#0050ef;fillStyle=auto;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-48">
+          <mxGeometry width="30" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-50" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;1. 负责接听报警电话，及时处理各类警情，并进行指挥调度。&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;2. 承担授权的警务指挥工作，协调各部门、各警种的处置警力。&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;3. 组织开展情报分析研判工作，规划情报需求，建设信息系统，管理情报平台，建立情报&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&amp;nbsp;工作规范等。&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;4. 负责全局重大案事件的新闻发布。&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;5. 通过情指行一体化机制，强化值班勤务，实时跟踪、掌握、传递警情信息，快速、有力、精准下达处置指令，高效指挥处置群体性、个人极端和自然灾害引发的各类重大警情。&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;glass=0;strokeColor=#FFFFFF;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;fillColor=#FFFF99;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-48">
+          <mxGeometry x="30" width="900" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-51" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2220" y="512.5" width="930" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-52" value="合成作战中心" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#0050ef;fillStyle=auto;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-51">
+          <mxGeometry width="30" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-53" value="&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;1. 信息整合：将来自不同警种、不同渠道的各类情报信息，如刑侦、治安、网安、交警等收集的线索和数据，进行集中整合和梳理。这些信息可能包括人员信息、案件线索、监控视频、通讯记录等。通过整合，打破信息孤岛，实现全面、准确、及时的情报掌握。&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400;&quot;&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;2. 协同指挥：建立统一的指挥体系，对参与作战的各警种、各部门进行统一调度和指挥。明确各部门的职责和任务，确保在行动中协调一致，避免出现各自为战、重复劳动或相互推诿的情况。&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400;&quot;&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;3. 资源共享：实现警力、技术装备、侦查手段等资源的共享。不同警种和部门之间相互支持、相互配合，充分发挥各自的优势。&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;div style=&quot;resize: none; outline: none; font-size: inherit;&quot;&gt;4. 数据分析与研判：运用大数据分析和智能研判技术，对整合的信息进行深度挖掘和分析，发现犯罪规律、犯罪团伙的组织结构、作案特点等，为侦查和打击提供精确的方向和策略。&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;glass=0;strokeColor=#FFFFFF;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;fillColor=#FFFF99;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-51">
+          <mxGeometry x="30" width="900" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-54" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2220" y="840" width="930" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-55" value="交警部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#0050ef;fillStyle=auto;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-54">
+          <mxGeometry width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-56" value="&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;div style=&quot;resize: none; outline: none; font-size: inherit;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: inherit;&quot;&gt;&lt;div style=&quot;resize: none; outline: none;&quot;&gt;1. 信息收集与整合：收集来自道路监控设备、卡口系统、电子警察等的各类交通数据，如车辆流量、车速、违法信息等。&lt;br&gt;整合驾驶员、车辆登记、交通事故处理等相关信息，构建全面的交通信息数据库。&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none;&quot;&gt;2.&amp;nbsp;数据分析与研判：&lt;span style=&quot;font-size: inherit;&quot;&gt;对收集到的交通信息进行深度挖掘和分析，以发现交通流量规律、事故多发路段和时段、违法驾驶行为的特点等。&lt;/span&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;为交通管理决策提供数据支持，例如制定交通疏导方案、优化信号灯设置、规划道路建设等。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none;&quot;&gt;3.&amp;nbsp;信息发布与服务：&lt;span style=&quot;font-size: inherit;&quot;&gt;通过交通广播、互联网平台、手机应用等渠道，向社会公众发布实时交通路况、交通管制信息、车辆违法查询等服务。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;glass=0;strokeColor=#FFFFFF;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;fillColor=#FFFF99;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-54">
+          <mxGeometry x="30" width="900" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-57" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2220" y="1050" width="930" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-58" value="治安部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#0050ef;fillStyle=auto;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-57">
+          <mxGeometry width="30" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-59" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400; background-color: rgba(255, 255, 255, 0.01); font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;1. 组织、指导和监督社会治安管理工作，维护社会治安秩序，预防、发现并制止违法犯罪。&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;2. 掌握、分析社会治安动态，研究制订预防、查处的对策。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;3. 负责查处重大治安案件、治安灾害事故，妥善处置重大群体性、突发性事件。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;4. 做好公共场所、特种行业和大型群体、集会游行示威等治安管理，查禁社会丑恶现象，救助群众危难，参加社会公益活动。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;5. 负责公安户籍管理工作和基层基础建设工作，包括居民身份证管理，查处违反户政管理的案件，以及流动人口、暂住人口、重点人口及租赁房屋管理等。&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;glass=0;strokeColor=#FFFFFF;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;fillColor=#FFFF99;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-57">
+          <mxGeometry x="30" width="900" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-60" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2220" y="1300" width="930" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-61" value="视频部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#0050ef;fillStyle=auto;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-60">
+          <mxGeometry width="30" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-62" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;1. 视频监控管理与维护：负责管辖区域内各类监控设备的日常运行维护，确保设备正常工作，图像清晰稳定。&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;2. 视频巡查与分析：通过实时查看监控视频，及时发现异常情况，并对重点区域、重点时段的视频进行深入分析，挖掘潜在的治安隐患和犯罪线索。&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;3. 案件视频侦查：在各类案件的侦破过程中，对与案件相关的视频资料进行收集、整理和分析，为案件的侦破提供关键证据和线索。&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;glass=0;strokeColor=#FFFFFF;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;fillColor=#FFFF99;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-60">
+          <mxGeometry x="30" width="900" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-63" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2220" y="1560" width="930" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-64" value="刑侦部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#0050ef;fillStyle=auto;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-63">
+          <mxGeometry width="30" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-65" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 12px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;1. 受理和侦查刑事案件：对各类刑事犯罪案件进行立案、侦查和破案工作，依法追究犯罪嫌疑人的刑事责任。&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 12px; font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 12px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;2. 现场勘查：对犯罪现场进行细致的勘查，收集和固定证据，包括指纹、足迹、血迹、毛发等物证，以及现场的痕迹、物品等。&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 12px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;3. 调查访问：通过对受害人、证人以及相关人员的调查访问，了解案件情况，获取线索和证据。&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 12px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;4. 情报分析：对收集到的案件信息和线索进行综合分析，判断犯罪动机、犯罪手法和犯罪嫌疑人的特征，为案件侦破提供方向。&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 12px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;5. 追捕逃犯：对在逃的犯罪嫌疑人进行追捕，与其他地区的公安机关协作，实施跨区域的追逃行动。&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;glass=0;strokeColor=#FFFFFF;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;fillColor=#FFFF99;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-63">
+          <mxGeometry x="30" width="900" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-66" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2220" y="1800" width="930" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-67" value="网安部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#ffffff;fontStyle=1;fillColor=#0050ef;fillStyle=auto;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-66">
+          <mxGeometry width="30" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-68" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;1. 网络监管与巡查: 对互联网进行日常巡查，及时发现并处理各类违法有害信息，如淫秽色情、暴力恐怖、网络谣言等。&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400;&quot;&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 400;&quot;&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;2. 互联网安全监督： 监督互联网服务提供者和联网使用单位落实安全管理责任，确保网络运行合法合规。&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;&lt;br&gt;3. 打击网络犯罪：侦查和办理网络诈骗、网络盗窃、网络赌博、侵犯公民个人信息等各类网络犯罪案件。与其他执法部门和国际警务合作机构协作，共同打击跨境网络犯罪活动。&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;4. 网络安全防护：&amp;nbsp;&lt;span style=&quot;font-size: inherit;&quot;&gt;指导重要信息系统和政府网站的安全防护工作，提高其抵御网络攻击的能力。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-weight: 400;&quot;&gt;组织开展网络安全宣传教育，提高公众的网络安全意识和防范能力。&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;glass=0;strokeColor=#FFFFFF;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#000000;fontStyle=1;fillColor=#FFFF99;" vertex="1" parent="WbxL7B_Gioo-JEQ7ymXz-66">
+          <mxGeometry x="30" width="900" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WbxL7B_Gioo-JEQ7ymXz-69" value="各部门职责介绍" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#C73500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#FFFFFF;fontStyle=1;fillColor=#c73500;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="980" width="230" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
