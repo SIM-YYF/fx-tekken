@@ -117,7 +117,7 @@
             <mxPoint x="651" y="1668.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SuW-aeRowbUI4IWuJljU-76" value="情指中心出具报告" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#A50040;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;fillColor=#d80073;arcSize=50;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="SuW-aeRowbUI4IWuJljU-76" value="情报中心出具报告" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#A50040;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;fillColor=#d80073;arcSize=50;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1230" y="1530" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SuW-aeRowbUI4IWuJljU-79" value="信息整合，提交结论" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=#f25050;" parent="1" vertex="1">
