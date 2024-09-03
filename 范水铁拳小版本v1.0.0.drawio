@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SuW-aeRowbUI4IWuJljU-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;textDirection=rtl;horizontal=0;verticalAlign=bottom;fontColor=#f25050;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="270" width="2050" height="1490" as="geometry" />
+          <mxGeometry x="-150" y="260" width="2050" height="1490" as="geometry" />
         </mxCell>
         <mxCell id="SuW-aeRowbUI4IWuJljU-10" value="项目名称： 范水铁拳" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="470" y="80" width="850" height="120" as="geometry" />
