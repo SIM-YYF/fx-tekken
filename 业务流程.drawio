@@ -475,6 +475,9 @@
         <mxCell id="rEiwxzGcd5t1e-fCDFQv-51" value="发送消息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="3780" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rEiwxzGcd5t1e-fCDFQv-52" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="4500" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
