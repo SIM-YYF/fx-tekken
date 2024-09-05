@@ -1,9 +1,272 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.10">
   <diagram name="第 1 页" id="KURkfCXdS5l0Emxr8ACl">
-    <mxGraphModel>
+    <mxGraphModel dx="2037" dy="-2388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="275" y="4016.5" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-83" target="f_L6Z8i6JunqyPHy0ZLn-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-81" value="加入团队" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_L6Z8i6JunqyPHy0ZLn-80">
+          <mxGeometry x="0.0928" y="-4" relative="1" as="geometry">
+            <mxPoint x="21" y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-83" target="f_L6Z8i6JunqyPHy0ZLn-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-83" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="4131.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-88" target="f_L6Z8i6JunqyPHy0ZLn-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="658" y="3850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-85" value="构建组织架构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_L6Z8i6JunqyPHy0ZLn-84">
+          <mxGeometry x="0.0103" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-87" target="f_L6Z8i6JunqyPHy0ZLn-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-87" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="573.45" y="3760" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-88" value="缉毒一大队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289.5" y="4096.5" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-91" target="f_L6Z8i6JunqyPHy0ZLn-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-90" value="构建组织架构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_L6Z8i6JunqyPHy0ZLn-89">
+          <mxGeometry x="-0.0316" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-91" value="诈骗二大队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="4196.5" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-92" value="团队管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="303.25" y="4016.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-93" value="情报部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="593.45" y="3830.001923848512" width="120" height="27.361030042918454" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-94" value="网安部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="593.45" y="3870.0024044471693" width="120" height="27.361030042918454" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-95" value="视频部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="592.45" y="3910.0028850458275" width="120" height="27.361030042918454" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-96" value="技侦部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="592.45" y="3952.1804892703867" width="120" height="27.361030042918454" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-97" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="685.95" y="3955" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-99" target="f_L6Z8i6JunqyPHy0ZLn-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
+          <mxGeometry x="558" y="4326.04" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-100" value="情报部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
+          <mxGeometry x="577" y="4386.035598217573" width="120" height="19.570815450643778" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-101" value="网安部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
+          <mxGeometry x="577" y="4419.718746033892" width="120" height="19.570815450643778" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-102" value="视频部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
+          <mxGeometry x="577" y="4453.401893850211" width="120" height="19.570815450643778" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-103" value="反诈部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;" vertex="1" parent="1">
+          <mxGeometry x="577" y="4490.7699999999995" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-104" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="669.5" y="4500.7699999999995" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-105" value="部门管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="625.95" y="3760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-106" value="部门管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="607" y="4326.04" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="829.1899999999998" y="3812.2699999999995" width="106" height="255.46" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-108" value="合成作战平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="844.77" y="3815" width="80.46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1079.25" y="4048.6799999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-110" value="创建群聊" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_L6Z8i6JunqyPHy0ZLn-109">
+          <mxGeometry x="0.1132" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-111" value="沟通平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="843.8766265060242" y="4009.3599999999997" width="76.6265060240964" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-115" target="f_L6Z8i6JunqyPHy0ZLn-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-115" target="f_L6Z8i6JunqyPHy0ZLn-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-114" value="分配工作项/任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_L6Z8i6JunqyPHy0ZLn-113">
+          <mxGeometry x="0.0927" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-115" value="网络贩毒案件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="843.8766265060242" y="3887.1800000000003" width="76.6265060240964" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="f_L6Z8i6JunqyPHy0ZLn-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1224.25" y="4048.6799999999994" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-117" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1079.25" y="3960" width="145" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-119" target="f_L6Z8i6JunqyPHy0ZLn-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-119" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="3710" width="146.25" height="192.82" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-120" value="情报收集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1113.7500000000002" y="3747.8199999999997" width="80" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-121" value="追踪嫌疑人踪迹，资金流向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1090.25" y="3780.1800000000003" width="127" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-122" value="网络侦查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1091.75" y="3836.5" width="127" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-123" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1090.75" y="3872.8199999999997" width="127" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-124" value="群聊组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1086.75" y="3957.3599999999997" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-125" value="任务管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1083.75" y="3710" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-126" value="情报中心群聊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="4005" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-127" value="技侦中心群聊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1093.75" y="4046.1800000000003" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-128" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1096.75" y="4090" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-129" value="研判中心" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1298.0049999999999" y="3913.6799999999994" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-130" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-124" target="f_L6Z8i6JunqyPHy0ZLn-119">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1278" y="4050" as="sourcePoint" />
+            <mxPoint x="1378" y="3950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-131" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="829.1899999999998" y="4262.2699999999995" width="106" height="255.46" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-132" value="合成作战平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="844.77" y="4265" width="80.46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-135" target="f_L6Z8i6JunqyPHy0ZLn-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-134" value="创建群聊" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_L6Z8i6JunqyPHy0ZLn-133">
+          <mxGeometry x="0.1132" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-135" value="沟通平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="843.8766265060242" y="4459.36" width="76.6265060240964" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-139" target="f_L6Z8i6JunqyPHy0ZLn-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-139" target="f_L6Z8i6JunqyPHy0ZLn-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-138" value="分配工作项/任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_L6Z8i6JunqyPHy0ZLn-137">
+          <mxGeometry x="0.0927" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-139" value="网络贩毒案件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="843.8766265060242" y="4337.18" width="76.6265060240964" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-141" target="f_L6Z8i6JunqyPHy0ZLn-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-141" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1079.25" y="4407.36" width="145" height="172.64" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-143" target="f_L6Z8i6JunqyPHy0ZLn-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-143" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="4160" width="146.25" height="192.82" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-144" value="情报收集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1113.7500000000002" y="4197.82" width="80" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-145" value="追踪嫌疑人踪迹，资金流向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1090.25" y="4230.18" width="127" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-146" value="网络侦查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1091.75" y="4286.5" width="127" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-147" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1090.75" y="4322.82" width="127" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-148" value="群聊组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1086.75" y="4407.36" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-149" value="任务管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="4160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-150" value="情报中心群聊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="4455" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-151" value="技侦中心群聊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1093.75" y="4496.18" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-152" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1093.75" y="4540" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-153" value="研判中心" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1298.0049999999999" y="4363.679999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-154" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-148" target="f_L6Z8i6JunqyPHy0ZLn-143">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1278" y="4500" as="sourcePoint" />
+            <mxPoint x="1378" y="4400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-155" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="798" y="4145" as="sourcePoint" />
+            <mxPoint x="1538" y="4145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_L6Z8i6JunqyPHy0ZLn-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f_L6Z8i6JunqyPHy0ZLn-144" target="f_L6Z8i6JunqyPHy0ZLn-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
